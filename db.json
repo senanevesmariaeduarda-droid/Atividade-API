@@ -1,0 +1,52 @@
+{
+  "jogos": [
+    {
+      "titulo": "Minecraft",
+      "genero": "Sandbox",
+      "plataforma": "PC",
+      "nota": 8,
+      "status": "Jogando",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "GTA V",
+      "genero": "Ação",
+      "plataforma": "PlayStation",
+      "status": "Finalizado"
+    },
+    {
+      "id": "3",
+      "titulo": "Hollow Knight",
+      "genero": "Metroidvania",
+      "plataforma": "PC",
+      "nota": 10,
+      "status": "Quero jogar"
+    },
+    {
+      "id": "4",
+      "titulo": "Forza Horizon 5",
+      "genero": "Corrida",
+      "plataforma": "Xbox",
+      "nota": 8,
+      "status": "Jogando"
+    },
+    {
+      "id": "5",
+      "titulo": "The Sims 4",
+      "genero": "Simulação",
+      "plataforma": "PC",
+      "nota": 9,
+      "status": "Jogando"
+    },
+    {
+      "id": "6",
+      "titulo": "Resident Evil 4",
+      "genero": "Terror",
+      "plataforma": "PlayStation",
+      "nota": 9,
+      "status": "Abandonado"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
